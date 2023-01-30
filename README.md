@@ -8,5 +8,5 @@ I am Ermiyas Assegu,
 ### What I am working on:
 - ⚡ JS/TS, React, React Native, Node.js, MongoDB
 ### How to reach me: 
-- 📫 Linkdedln: linkedin.com/in/ermiyas-assegu and Email: ermiyasassegu@gmail.com
+- 📫 LinkedIn: linkedin.com/in/ermiyas-assegu and Email: ermiyasassegu@gmail.com
 
